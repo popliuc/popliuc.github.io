@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px"
+	 viewBox="0 0 136.6 136.6" style="enable-background:new 0 0 136.6 136.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	
+		<radialGradient id="SVGID_1_" cx="23.3418" cy="106.9746" r="277.6654" fx="-62.3053" fy="94.5333" gradientTransform="matrix(0.6534 -0.757 0.6147 0.5306 -57.6653 67.8859)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#F9ED32"/>
+		<stop  offset="6.147723e-02" style="stop-color:#F8D939"/>
+		<stop  offset="0.1874" style="stop-color:#F5A54D"/>
+		<stop  offset="0.365" style="stop-color:#F0536C"/>
+		<stop  offset="0.4486" style="stop-color:#EE2A7B"/>
+		<stop  offset="0.5994" style="stop-color:#9E2AA7"/>
+		<stop  offset="0.7418" style="stop-color:#5B2ACD"/>
+		<stop  offset="0.86" style="stop-color:#2A2AE8"/>
+		<stop  offset="0.9496" style="stop-color:#0B2AF9"/>
+		<stop  offset="1" style="stop-color:#002AFF"/>
+	</radialGradient>
+	<path class="st0" d="M136.6,113.2c0,12.9-10.4,23.3-23.3,23.3H23.3C10.4,136.6,0,126.1,0,113.2V23.3C0,10.4,10.4,0,23.3,0h89.9
+		c12.9,0,23.3,10.4,23.3,23.3V113.2z"/>
+	<g>
+		<g>
+			<path class="st1" d="M90,122.5H46.5c-19.3,0-35-15.7-35-35V49.1c0-19.3,15.7-35,35-35H90c19.3,0,35,15.7,35,35v38.3
+				C125,106.8,109.3,122.5,90,122.5z M46.5,21.9c-15,0-27.2,12.2-27.2,27.2v38.3c0,15,12.2,27.2,27.2,27.2H90
+				c15,0,27.2-12.2,27.2-27.2V49.1c0-15-12.2-27.2-27.2-27.2H46.5z"/>
+		</g>
+		<g>
+			<path class="st1" d="M68.3,99.5c-17.2,0-31.2-14-31.2-31.2c0-17.2,14-31.2,31.2-31.2c17.2,0,31.2,14,31.2,31.2
+				C99.5,85.5,85.5,99.5,68.3,99.5z M68.3,44.9c-12.9,0-23.4,10.5-23.4,23.4c0,12.9,10.5,23.4,23.4,23.4c12.9,0,23.4-10.5,23.4-23.4
+				C91.7,55.4,81.2,44.9,68.3,44.9z"/>
+		</g>
+		<g>
+			<circle class="st1" cx="99" cy="38.1" r="6.5"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,64 @@
+#socialMediaIcons .fab:hover, #socialMediaIcons .fab:focus {
+  color: #ccc;
+  border: none; }
+
+#socialMediaIcons a:link .fa, #socialMediaIcons a:visited .fa {
+  color: #ccc; }
+
+.custom_nav {
+  vertical-align: +1px; }
+
+textarea {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%; }
+
+.settings-icon-css {
+  margin-bottom: 5px; }
+
+.settings-icon-css {
+  margin-bottom: 5px; }
+
+.smile-sunglases-icon-css {
+  margin-bottom: 5px; }
+
+.text-align-center {
+  text-align: center; }
+
+.blue2 {
+  color: #011627; }
+
+.bg-blue2 {
+  background-color: #011627 !important; }
+
+.color2 {
+  color: #2EC4B6; }
+
+.btn-color2 {
+  color: #fff;
+  background-color: #2ec4b6;
+  border-color: #2ec4b6; }
+
+.badge-color2 {
+  color: #fff;
+  background-color: #2ec4b6; }
+
+.color3 {
+  color: #FF876C; }
+
+.btn-color3 {
+  color: #fff;
+  background-color: #FF876C;
+  border-color: #FF876C; }
+
+.badge-color3 {
+  color: #fff;
+  background-color: #FF876C; }
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 75%; } }
+
+.rau-special-size {
+  font-size: 16px; }
